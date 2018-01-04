@@ -454,4 +454,6 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/proprietary/bin/qseecom_sample_client:system/bin/qseecom_sample_client \
     $(LOCAL_PATH)/proprietary/bin/vm_bms:system/bin/vm_bms \
     $(LOCAL_PATH)/proprietary/bin/serialno:system/bin/serialno \
-    $(LOCAL_PATH)/proprietary/bin/qseecomd:system/bin/qseecomd
+    $(LOCAL_PATH)/proprietary/bin/qseecomd:system/bin/qseecomd \
+    $(LOCAL_PATH)/proprietary/bin/fm_qsoc_patches:system/bin/fm_qsoc_patches
+
